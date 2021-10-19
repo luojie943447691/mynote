@@ -1,0 +1,19 @@
+##### 生成ID
+
+- nanoid
+
+##### 表格树形
+
+- vue-table-width-tree-grid
+
+##### 富文本编辑器
+
+- vue-quill-editor
+
+##### 进度条
+
+- nprogress
+
+##### 去掉项目中所有console的插件
+
+- babel-plugin-transform-remove-console

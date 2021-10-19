@@ -1,0 +1,23 @@
+## 创建并切换分支 
+  git checkout -b 分支名(login/user)
+## 切换分支
+  git checkout 分支名(login/user)
+## 查看当前属于哪个分支
+  git branch
+
+## 切换到主分支之后 合并分支
+
+git merge 分支名(login/user)
+
+## 检查状态
+
+git status
+
+## 提交
+
+git commit -m '完成用户代码的'
+
+## 推送
+
+git push -u 仓库名(orgin) 分支名称(login/master/user)
+

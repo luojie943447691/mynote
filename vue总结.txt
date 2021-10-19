@@ -1,0 +1,5 @@
+### 如果需要在界面启动的时候就有默认界面 需要配置一个router 然后重定向 并且一定要注意Vue一定要在router的index.js中导入才能看到效果
+### less-loader依赖less
+- 需要注意less-loader和less版本匹配问题 可能会有this.getOptions is not a function的问题
+- 安装指定npm install less@3.9.0 -s, npm install less-loader@5.0.0 -s
+
